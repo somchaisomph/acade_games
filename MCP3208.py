@@ -6,8 +6,8 @@ try:
 	# To open spi bus
 	spi = spidev.SpiDev()
 
-	# Raspi has only one spi bus (#0) and able to connect 2 devices (#0,#1) by default.
-	spi.open(0,0) # connect to bus=0,device=0
+	# Raspi has only one spi bus (#0) and able to connect 2 devices (#0,#1) .
+	spi.open(0,0) # connect to device with bus=0,device=0
 except :
 	spi = None
 
