@@ -9,5 +9,5 @@
 
 <h2>Wiring </h2>
 <br/>
-<img src="https://drive.google.com/file/d/0B-7jlCLBFvNsM2FqeUpfZ2RNbHc/view?usp=sharing" />
+<img src="https://drive.google.com/file/d/0B-7jlCLBFvNsM2FqeUpfZ2RNbHc/view" />
 <br/>
