@@ -6,7 +6,7 @@
 <li>MCP3208</li>
 <li>Jump wires</li>
 </ol>
-
+<hr/>
 <h2>Dependencies</h2>
 <h3>Install Python SpiDev</h3>
 <ol>
@@ -17,7 +17,7 @@
  </pre>
 </li>
 </ol>
-
+<hr/>
 <h2>Wiring </h2>
 <br/>
 <img src="https://dl.dropboxusercontent.com/u/34831003/joystick_mcp3208_raspi.png" />
