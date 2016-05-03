@@ -20,8 +20,11 @@
 <hr/>
 <h2>Wiring </h2>
 <br/>
-<img src="https://dl.dropboxusercontent.com/u/34831003/joystick_mcp3208_raspi.png" />
+<h3>Raspberry Pi and MCP3208 and 2 Axis Joystick </h3>
+<img src="https://db.tt/5ct0KpBl" />
 <br/>
+<h3>Raspberry Pi and Switches </h3>
+<img src="https://db.tt/kIXFtfw2" />
 <hr/>
 <h2>References</h2>
 <ul>
