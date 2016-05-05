@@ -28,6 +28,7 @@
 <hr/>
 <h2>References</h2>
 <ul>
+<li>http://cpre.kmutnb.ac.th/esl/learning/index.php?article=rpi-spi-mcp320x</li>
 <li>http://www.arduitronics.com/article/raspberry-pi-analog-input-with-adc-mcp3208</li>
 <li>http://scruss.com/blog/2013/02/02/simple-adc-with-the-raspberry-pi/</li>
 <li>https://projects.drogon.net/understanding-spi-on-the-raspberry-pi/</li>
