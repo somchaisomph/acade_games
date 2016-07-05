@@ -10,11 +10,11 @@
 <h2>Dependencies</h2>
 <h3>Install Python SpiDev</h3>
 <ol>
-<li>Download source code from <a href='https://github.com/doceme/py-spidev'>https://github.com/doceme/py-spidev</a>. Place it somewhere on your Raspberry Pi.</li>
-<li>Use command :
- <pre>
+<li>$ git clone https://github.com/doceme/py-spidev</li>
+<li>$ cd py-spidev</li>
+<li>
  $ sudo python setup.py install
- </pre>
+ 
 </li>
 </ol>
 <hr/>
