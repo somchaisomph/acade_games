@@ -9,14 +9,11 @@
 <hr/>
 <h2>Dependencies</h2>
 <h3>Install Python SpiDev</h3>
-<ol>
-<li>$ git clone https://github.com/doceme/py-spidev</li>
-<li>$ cd py-spidev</li>
-<li>
- $ sudo python setup.py install
- 
-</li>
-</ol>
+<pre>
+$ git clone https://github.com/doceme/py-spidev</li>
+$ cd py-spidev</li>
+$ sudo python setup.py install (or sudo python3 setup.py install)
+</pre>
 <hr/>
 <h2>Wiring </h2>
 <br/>
